@@ -10,7 +10,7 @@ The United Nations Sustainable Development Goals (SDGs) blueprint, adopted in 20
 
 **Goal 3: Good Health and Wellbeing** is critical and intertwined with the achievement of other sustainable development goals. Achieving this goal requires championing and implementing policies geared towards having **Universal Health Coverage (UHC)**.
 
-In Kenya, under the **Vision 2030** framework, the government has passed parliamentary laws to make healthcare affordable and accessible. However, the success of these implementations depends heavily on the collaboration between the national government, county governments, and the **National Health Insurance Fund (NHIF)**.
+In Kenya, under the **Vision 2030** framework, the government has passed parliamentary laws to make healthcare affordable and accessible. However, the success of these implementations depends heavily on the collaboration between the national government, county governments, and the **Social Health Authority(SHA)**.
 
 This case study focuses on deriving **data-driven insights** to assess Nairobi’s position in attaining **SDG Goal 3**.  
 It aims not only to provide insights on healthcare accessibility across different sub-counties and demographics but also to provide **actionable recommendations**, benchmarked against specific SDG Goal 3 targets.
