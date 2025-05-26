@@ -16,13 +16,13 @@ This report leverages population statistics, health facility data, and service a
 
 The first step in enhancing healthcare is understanding the people it serves. According to the **2019 Kenya National Population Census**, Nairobi has a population of **4.397 million**, nearly evenly split between **49% male** and **51% female**.
 
-![Figure 1: Age distribution](figures/fig1.png)
+![Figure 1: Age distribution](fig1.png)
 
 Figure 1 reveals a striking youth bulge: more than **70%** of Nairobi’s residents are below the age of 35, and **12%** are children under the age of five. This demographic profile poses unique challenges and opportunities. Young people have distinctive health needs—ranging from sexual and reproductive health to mental health services and substance abuse prevention. Children require robust maternal and pediatric care systems to combat preventable diseases.
 
 Healthcare interventions, therefore, must prioritize youth and child-centric services to be effective. These services include expanded immunization, antenatal care, mental health counseling, and school-based health education.
 
-![Figure 2: Population density by sub-county](figures/fig2.png)
+![Figure 2: Population density by sub-county](fig2.png)
 
 Beyond age, population density varies significantly by sub-county. High-density areas such as **Mathare**, **Kamukunji**, **Makadara**, and **Kibra** are home to thousands living in informal settlements. These zones are more susceptible to public health risks due to poor sanitation, overcrowding, limited mobility, and inadequate access to healthcare services. The density of a population can strain existing healthcare infrastructure, necessitating decentralized and community-level interventions.
 
@@ -32,7 +32,7 @@ Beyond age, population density varies significantly by sub-county. High-density 
 
 While Nairobi hosts a considerable number of health facilities, their distribution does not mirror the population need.
 
-![Figure 3: Health facilities per sub-county and healthcare density](figures/fig3.png)
+![Figure 3: Health facilities per sub-county and healthcare density](fig3.png)
 
 Sub-counties like **Embakasi** and **Starehe** have the highest number of health facilities. However, high numbers can be misleading. **Embakasi**, despite having many clinics and hospitals, has a vast population, resulting in **low healthcare facility density**. On the other hand, **Mathare** and **Kasarani** suffer from both low numbers and low density, exacerbating the healthcare gap.
 
@@ -44,7 +44,7 @@ Accessibility must consider not just the presence of a health facility, but how 
 
 Availability is also defined by operational hours. Are health services available when people need them? Unfortunately, many are not.
 
-![Figure 4: Healthcare facility operational status](figures/fig4.png)
+![Figure 4: Healthcare facility operational status](fig4.png)
 
 Though **more than 50%** of facilities are open during weekends, less than **30% operate 24 hours**. This is particularly concerning for sub-counties like **Starehe**, where the Nairobi Central Business District (CBD) is located, and where many residents work non-traditional hours.
 
@@ -63,7 +63,7 @@ Availability of essential services is the backbone of any healthcare system. We 
 - **EPI (Expanded Program on Immunization)**
 - **Basic and Comprehensive Emergency Obstetric Care**
 
-![Figure 5: Availability of healthcare services](figures/fig5.png)
+![Figure 5: Availability of healthcare services](fig5.png)
 
 While ART and Family Planning services are moderately distributed, many critical services are almost absent. There are sub-counties with no **ANC**, **PMTCT**, or **obstetric emergency services**. The lack of **TB diagnostics**, **X-ray** facilities, and immunization infrastructure puts the city at risk of disease outbreaks and worsens chronic health disparities.
 
@@ -77,7 +77,7 @@ These service gaps directly compromise Kenya’s ability to meet:
 
 ## Pediatric Care: C-IMCI Accessibility
 
-![Figure 6: Children's accessibility to C-IMCI services](figures/fig6.png)
+![Figure 6: Children's accessibility to C-IMCI services](fig6.png)
 
 **C-IMCI (Community Integrated Management of Childhood Illnesses)** is a proven strategy to reduce child mortality through better diagnosis and management of pneumonia, diarrhea, malaria, and malnutrition. Sub-counties like **Lang'ata** have relatively better access to C-IMCI services, while **Mathare** and **Kasarani** fall behind.
 
