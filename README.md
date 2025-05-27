@@ -22,6 +22,19 @@ Building on these findings, the report offers actionable recommendations aligned
 
 ---
 
+## 🛠️ Tools and Technologies Used
+
+This project was powered by a suite of modern data analysis tools and open-source technologies, enabling detailed exploration, visualization, and storytelling with data:
+
+- **Python**: Core programming language for data preprocessing, analysis, and visualization.
+- **Pandas & NumPy**: Efficient data structures and operations for cleaning, transforming, and manipulating healthcare and demographic datasets.
+- **Matplotlib & Seaborn**: Static plotting libraries used for bar charts, line plots, and categorical summaries.
+- **Plotly & GeoPandas**: Interactive mapping and choropleth tools for spatial exploration of healthcare availability across Nairobi’s sub-counties.
+- **Jupyter Notebook**: A dynamic environment for exploratory data analysis, code execution, and inline visualization.
+- **Markdown & LaTeX**: Used to create structured documentation, section headers, annotated captions, and math/statistics notation.
+
+These tools together enabled the creation of a reproducible, transparent, and visually compelling data story that can be shared, extended, or integrated into policy briefs and urban health dashboards.
+
 ## Nairobi's Demographic Landscape
 
 The first step in enhancing healthcare is gaining a deep understanding of the population it aims to serve. Effective health planning and resource allocation require accurate and comprehensive demographic data to identify the needs and characteristics of the community. In Nairobi, where the population is diverse and rapidly growing, such insights are especially critical. By analyzing demographic profiles, health authorities can tailor interventions that address the unique health challenges faced by different groups, ensuring that no segment of the population is left behind.
@@ -150,20 +163,6 @@ By highlighting spatial and service-related inequalities across sub-counties, th
 In an age where data is increasingly pivotal to development, integrating such granular, evidence-based insights into local governance frameworks offers a path forward. The goal is not only to meet Sustainable Development Goal 3 (Good Health and Wellbeing) by 2030 but to build a system that can adapt, evolve, and respond equitably to its population’s needs far beyond that milestone.
 
 ---
-
-## 🛠️ Tools and Technologies Used
-
-This project was powered by a suite of modern data analysis tools and open-source technologies, enabling detailed exploration, visualization, and storytelling with data:
-
-- **Python**: Core programming language for data preprocessing, analysis, and visualization.
-- **Pandas & NumPy**: Efficient data structures and operations for cleaning, transforming, and manipulating healthcare and demographic datasets.
-- **Matplotlib & Seaborn**: Static plotting libraries used for bar charts, line plots, and categorical summaries.
-- **Plotly & GeoPandas**: Interactive mapping and choropleth tools for spatial exploration of healthcare availability across Nairobi’s sub-counties.
-- **Jupyter Notebook**: A dynamic environment for exploratory data analysis, code execution, and inline visualization.
-- **Markdown & LaTeX**: Used to create structured documentation, section headers, annotated captions, and math/statistics notation.
-
-These tools together enabled the creation of a reproducible, transparent, and visually compelling data story that can be shared, extended, or integrated into policy briefs and urban health dashboards.
-
 
 ## Project Structure
 
