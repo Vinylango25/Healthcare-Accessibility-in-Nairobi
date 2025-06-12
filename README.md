@@ -42,7 +42,7 @@ The first step in enhancing healthcare is gaining a deep understanding of the po
 According to the **2019 Kenya National Population Census**, Nairobi’s population stands at **4.397 million** people. This population is almost evenly divided by gender, with **49% male** and **51% female** residents. Understanding this near-equal gender distribution is essential, as it informs health service providers about potential differences in healthcare needs, utilization patterns, and risk factors between males and females. Such demographic knowledge lays the foundation for developing inclusive health strategies that promote equitable access and improved outcomes for all Nairobi residents.
 
 
-![Figure 1: Age distribution](fig1.png)
+![Figure 1: Age distribution](figures/fig1.png)
 
 Figure 1 reveals a striking demographic feature of Nairobi’s population: a pronounced youth bulge. More than **70%** of Nairobi’s residents are under the age of 35, highlighting a predominantly young population that shapes the city’s social and economic fabric. This youthful majority represents a vital segment of the population that has the potential to drive innovation, productivity, and development if their health and wellbeing are adequately supported. At the same time, this demographic trend brings unique challenges, as young people often face specific health risks and require targeted services to address their needs effectively.
 
@@ -53,7 +53,7 @@ Young people, broadly defined as those aged 15 to 35, face a distinct set of hea
 Given this demographic landscape, healthcare interventions in Nairobi must prioritize youth and child-centric services to be effective. This includes expanding immunization programs, enhancing antenatal and postnatal care, and integrating mental health counseling into primary healthcare. School-based health education programs offer a strategic platform to promote healthy behaviors, raise awareness, and reduce risk factors among children and adolescents. By focusing on these critical services, Nairobi can leverage its youthful population as a powerful driver of sustainable development aligned with SDG Goal 3.
 
 
-![Figure 2: Population density by sub-county](fig2.png)
+![Figure 2: Population density by sub-county](figures/fig2.png)
 
 Beyond age, population density in Nairobi varies significantly across its sub-counties, revealing stark contrasts in living conditions and health challenges. High-density areas such as **Mathare**, **Kamukunji**, **Makadara**, and **Kibra** are characterized by densely populated informal settlements where thousands of residents live in cramped spaces. These neighborhoods often lack basic amenities like clean water, sanitation facilities, and waste management systems, creating an environment ripe for the spread of infectious diseases such as cholera, typhoid, and respiratory infections. The overcrowding not only exacerbates health risks but also complicates efforts to provide timely and effective healthcare.
 
@@ -69,7 +69,7 @@ While Nairobi hosts a considerable number of health facilities, their distributi
 
 Moreover, the mismatch between healthcare infrastructure and population demand exacerbates the strain on existing facilities, leading to overcrowded clinics and stretched resources in areas where services are available. This overburdening compromises the quality of care, reduces patient satisfaction, and can lead to adverse health outcomes, particularly for vulnerable groups like children, the elderly, and people with chronic illnesses. Addressing this issue calls for strategic investment in healthcare infrastructure, focusing on building new facilities and upgrading existing ones in underserved sub-counties, as well as optimizing resource allocation to ensure efficient service delivery aligned with population needs.
 
-![Figure 3: Health facilities per sub-county and healthcare density](fig3.png)
+![Figure 3: Health facilities per sub-county and healthcare density](figures/fig3.png)
 
 Sub-counties like **Embakasi** and **Starehe** stand out as having the highest number of health facilities within Nairobi, suggesting at first glance a robust healthcare infrastructure. However, these raw numbers can be deceptive when not considered alongside population size and distribution. **Embakasi**, for instance, despite boasting numerous clinics, hospitals, and dispensaries, is also one of the most populous sub-counties in Nairobi. This vast population base dilutes the impact of facility numbers, resulting in a **low healthcare facility density** — a critical measure indicating how many facilities serve each segment of the population. Consequently, residents may face overcrowded facilities and longer wait times, reducing the overall effectiveness of healthcare delivery despite facility availability.
 
@@ -85,7 +85,7 @@ Availability of healthcare services is not solely determined by the number or lo
 
 Moreover, in densely populated and underserved areas, the scarcity of 24/7 or weekend healthcare options compounds accessibility issues. When primary healthcare centers close after hours, patients are forced to travel longer distances to reach hospitals with emergency services, incurring additional time and costs that many cannot bear. This gap disproportionately affects vulnerable populations such as the elderly, children, and those with chronic conditions who require regular or urgent care outside typical hours. To address these challenges, Nairobi’s health system must prioritize extending operational hours and implementing flexible service models, including mobile clinics and telemedicine, that can reach people beyond the confines of traditional schedules. Doing so will be instrumental in closing service gaps and improving health outcomes in line with the goals of SDG 3.
 
-![Figure 4: Healthcare facility operational status](fig4.png)
+![Figure 4: Healthcare facility operational status](figures/fig4.png)
 
 Though it is encouraging that more than half of Nairobi’s health facilities remain open during weekends, the stark reality is that fewer than 30% offer round-the-clock, 24-hour services. This limitation disproportionately affects critical sub-counties like Starehe, which encompasses the bustling Nairobi Central Business District (CBD). In this area, a significant portion of the population works outside typical 9-to-5 hours, including night shifts, part-time jobs, and informal sector employment. For these residents, access to healthcare during non-traditional hours is essential but often unattainable, creating a critical gap in the health system’s ability to serve its people effectively.
 
@@ -104,7 +104,7 @@ Our focus was on critical programs such as **Antiretroviral Therapy (ART)**, whi
 We also examined the availability of **Tuberculosis (TB) Diagnostics**, as TB remains a leading cause of morbidity and mortality in the region. Early and accurate diagnosis is fundamental to controlling this infectious disease. The **Expanded Program on Immunization (EPI)** was another focal point, highlighting Nairobi’s efforts to protect children from vaccine-preventable diseases through systematic immunization schedules. Lastly, we evaluated the provision of both **Basic and Comprehensive Emergency Obstetric Care**, which are indispensable for addressing complications during childbirth, reducing maternal and neonatal mortality rates.
 
 Together, these services paint a holistic picture of Nairobi’s healthcare capacity to meet both routine and emergency needs. Their availability, distribution, and operational status directly influence the city’s progress toward achieving Sustainable Development Goal 3, emphasizing good health and well-being for all.
-![Figure 5: Availability of healthcare services](fig5.png)
+![Figure 5: Availability of healthcare services](figures/fig5.png)
 
 While ART and Family Planning services are moderately distributed, many critical services are almost absent. There are sub-counties with no **ANC**, **PMTCT**, or **obstetric emergency services**. The lack of **TB diagnostics**, **X-ray** facilities, and immunization infrastructure puts the city at risk of disease outbreaks and worsens chronic health disparities.
 
@@ -118,7 +118,7 @@ These service gaps directly compromise Kenya’s ability to meet:
 
 ## Pediatric Care: C-IMCI Accessibility
 
-![Figure 6: Children's accessibility to C-IMCI services](fig6.png)
+![Figure 6: Children's accessibility to C-IMCI services](figures/fig6.png)
 
 **C-IMCI (Community Integrated Management of Childhood Illnesses)** is a well-established and effective strategy designed to reduce child mortality by improving the diagnosis and treatment of the most common and life-threatening childhood illnesses. These include pneumonia, diarrhea, malaria, and malnutrition, which together account for a large proportion of deaths among children under five. By empowering community health workers with training and resources to manage these conditions promptly and effectively, C-IMCI extends critical healthcare services beyond formal facilities and into the communities where children live. This approach not only improves survival rates but also strengthens overall health system resilience at the grassroots level.
 
